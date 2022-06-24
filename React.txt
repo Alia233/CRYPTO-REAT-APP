@@ -1,0 +1,2 @@
+The Crypto App is an app that allows users to efficiently and easily track what’s happening in the crypto market
+Our app contains two sections, one for searching the name of the cryptocurrency and the other for displaying all the available cryptocurrencies in the market. 
